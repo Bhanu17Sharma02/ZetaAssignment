@@ -1,0 +1,25 @@
+PODS:
+  - GoogleAPIClientForREST/Calendar (3.5.4):
+    - GoogleAPIClientForREST/Core
+    - GTMSessionFetcher/Full (< 4.0, >= 1.6.1)
+  - GoogleAPIClientForREST/Core (3.5.4):
+    - GTMSessionFetcher/Full (< 4.0, >= 1.6.1)
+  - GTMSessionFetcher/Core (3.4.1)
+  - GTMSessionFetcher/Full (3.4.1):
+    - GTMSessionFetcher/Core
+
+DEPENDENCIES:
+  - GoogleAPIClientForREST/Calendar
+
+SPEC REPOS:
+  trunk:
+    - GoogleAPIClientForREST
+    - GTMSessionFetcher
+
+SPEC CHECKSUMS:
+  GoogleAPIClientForREST: 82fc3df6bbb59b226ac0bf6b638d38b31004f07e
+  GTMSessionFetcher: 8000756fc1c19d2e5697b90311f7832d2e33f6cd
+
+PODFILE CHECKSUM: 6a6e0348a11366dbabdaabf601fc0f4159f2c68e
+
+COCOAPODS: 1.15.2
